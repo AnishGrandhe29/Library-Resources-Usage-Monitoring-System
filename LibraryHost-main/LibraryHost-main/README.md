@@ -1,3 +1,7 @@
-1) Satrt The Backend server by going to Backend Folder in LIB and run nodemon (Will run in port 8000)
+This is the host page, where the host(in our case library staff and faculty of the college) can see how each student is using library resources, how much time he has spent, what books he has referred etc
+
+Steps to run:
+
+1) Start the backend server by going to Backend Folder in LIB and run nodemon (Will run in port 8000)
 2) To start react server go to FE folder and run "npm run dev" it will run in port 5173
 3) The SQL commands and credientals are as per my MySQL DB 
